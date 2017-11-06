@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverFactory: 杀死chrome浏览器进程成功]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 打开网址]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 在元素  用户名输入框输入admin]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 在元素  密码输入框输入123456]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 点击元素  登录按钮]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 获取元素：  用户菜单文本值]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverFactory: 杀死chrome浏览器进程成功]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 打开网址]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 在元素  用户名输入框输入admin]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 在元素  密码输入框输入123]]>
+    </line>
+    <line>
+      <![CDATA[【info】com.first.uiframework.DriverUtils: 点击元素  登录按钮]]>
+    </line>
+  </reporter-output>
+  <suite name="suite1" duration-ms="59710" started-at="2017-11-05T08:23:56Z" finished-at="2017-11-05T08:24:56Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="59710" started-at="2017-11-05T08:23:56Z" finished-at="2017-11-05T08:24:56Z">
+      <class name="com.first.testcase.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.first.testcase.LoginTest@6e0e048a]" name="beforeMethod" is-config="true" duration-ms="13608" started-at="2017-11-05T16:23:56Z" finished-at="2017-11-05T16:24:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverFactory: 杀死chrome浏览器进程成功]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest01()[pri:0, instance:com.first.testcase.LoginTest@6e0e048a]" name="loginTest01" duration-ms="15374" started-at="2017-11-05T16:24:10Z" finished-at="2017-11-05T16:24:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 打开网址]]>
+            </line>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 在元素  用户名输入框输入admin]]>
+            </line>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 在元素  密码输入框输入123456]]>
+            </line>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 点击元素  登录按钮]]>
+            </line>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 获取元素：  用户菜单文本值]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.first.testcase.LoginTest@6e0e048a]" name="afterMethod" is-config="true" duration-ms="5118" started-at="2017-11-05T16:24:25Z" finished-at="2017-11-05T16:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.first.testcase.LoginTest@6e0e048a]" name="beforeMethod" is-config="true" duration-ms="5166" started-at="2017-11-05T16:24:30Z" finished-at="2017-11-05T16:24:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverFactory: 杀死chrome浏览器进程成功]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest02()[pri:0, instance:com.first.testcase.LoginTest@6e0e048a]" name="loginTest02" duration-ms="15813" started-at="2017-11-05T16:24:35Z" finished-at="2017-11-05T16:24:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 打开网址]]>
+            </line>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 在元素  用户名输入框输入admin]]>
+            </line>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 在元素  密码输入框输入123]]>
+            </line>
+            <line>
+              <![CDATA[【info】com.first.uiframework.DriverUtils: 点击元素  登录按钮]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest02 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.first.testcase.LoginTest@6e0e048a]" name="afterMethod" is-config="true" duration-ms="4547" started-at="2017-11-05T16:24:51Z" finished-at="2017-11-05T16:24:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.first.testcase.LoginTest -->
+    </test> <!-- test1 -->
+  </suite> <!-- suite1 -->
+</testng-results>

@@ -1,0 +1,11 @@
+2017-11-05 16:23:57.962 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverFactory: 杀死chrome浏览器进程成功
+2017-11-05 16:24:15.725 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 打开网址
+2017-11-05 16:24:16.242 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 在元素  用户名输入框输入admin
+2017-11-05 16:24:16.622 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 在元素  密码输入框输入123456
+2017-11-05 16:24:19.187 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 点击元素  登录按钮
+2017-11-05 16:24:25.304 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 获取元素：  用户菜单文本值
+2017-11-05 16:24:30.612 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverFactory: 杀死chrome浏览器进程成功
+2017-11-05 16:24:46.659 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 打开网址
+2017-11-05 16:24:47.256 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 在元素  用户名输入框输入admin
+2017-11-05 16:24:47.795 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 在元素  密码输入框输入123
+2017-11-05 16:24:48.511 INFO  com.first.utils.Log 27 info - com.first.uiframework.DriverUtils: 点击元素  登录按钮
